@@ -1,0 +1,135 @@
+@media screen and (max-width: 459px) {
+
+	body {
+		
+	}
+}
+
+@media screen and (max-width: 899px) {
+
+	body {
+		font-size: 12px;
+	}
+}
+
+@media screen and (min-width: 900px) {
+
+	body {
+		font-size: 14px;
+	}
+}
+
+body {
+	background-color: #6C7988;
+	width: 100%;
+	font-family: 'Open Sans', serif;
+	font-weight: 400;
+}
+
+.container {
+	margin: 0em;
+	width: 100%;
+}
+
+.menu {
+  background-color: #242D38;
+  line-height: 4;
+  height: 4em;
+}
+
+.menu > div {
+  display: block;
+  padding: 0em 1em;
+  float: left;
+}
+
+.menu > div:last-child {
+    padding-right: 0em;
+    float: right;
+    margin-right: 1em;
+}
+
+.menu > div > a {
+  color: #A1A9B5;
+  text-decoration: none;
+  display: block;
+}
+
+.menu > div > a:hover {
+  color: #FFFFFF;
+}
+
+.menu > div > a.active {
+	color: #FFFFFF;
+}
+
+.btnToHome {
+	background: url('img/logo.svg') no-repeat center;
+  	background-size: 1.667em 1.667em;
+  	width: 4em;
+  	height: 4em;
+  	/*margin-top: 1.166em;
+    position: absolute;*/
+}
+
+.btnToHome:hover {
+	background: url('img/logo_hover.svg') no-repeat center;
+	background-size: 1.667em 1.667em;
+}
+
+/*.no-svg .main-header {
+  background-image: url(logo.png);
+}*/
+
+/****** dropdown-menu *******/
+.wrap-dd-menu {
+  width: 12.7em;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.wrap-dd-menu .dropdown {
+  top: 55%;
+  padding: 0.5em 0.25em;
+  border-radius: 5px;
+  border: 1px solid rgba(0,0,0,0.5);
+  font-weight: 600;
+}
+
+.wrap-dd-menu .dropdown li {
+	margin: 0em 0.5em;
+}
+
+.wrap-dd-menu .dropdown li a {
+    color: #6C7988;
+    line-height: 2.5;
+    font-size: 1.1em;
+    padding: 0em 0.5em;
+}
+
+.wrap-dd-menu .dropdown li:hover a {
+  background: #EEEEEE;
+  color: #000000;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+.wrap-dd-menu .dropdown:after {
+	display: none;
+}
+
+.wrap-dd-menu > a {
+	text-align: right;
+	background-size: 0.8em auto;
+	padding-right: 1.5em;
+}
+
+.wrap-dd-menu > a.closed {
+	background: url('img/icon-arrow-down.svg') no-repeat right center;
+	color: #A1A9B5;
+}
+
+.wrap-dd-menu > a.open {
+	background: url('img/icon-arrow-up.svg') no-repeat right center;
+	color: #FFFFFF;
+}

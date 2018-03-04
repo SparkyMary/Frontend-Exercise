@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.20717261,6.2083014 C3.6709893,6.74448471 4.34493988,7.29391558 4.34493988,7.29391558 C5.56281334,8.51178904 7.99856027,10.947536 7.99856027,10.947536 C7.99856027,10.947536 10.4367707,8.50932551 11.655876,7.29022028 C11.655876,7.29391558 12.2939824,6.71233591 11.7899479,6.2083014 C11.2859134,5.70426688 10.7108349,6.34633623 10.7108349,6.33956755 C9.80674333,7.24365908 7.99856027,9.05184214 7.99856027,9.05184214 C7.99856027,9.05184214 6.19488966,7.24817153 5.29305436,6.34633623 C5.29305436,6.33956755 4.74335592,5.67211808 4.20717261,6.2083014 Z" id="path-1"></path>
+    </defs>
+    <g id="States" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1060.000000, -229.000000)">
+        <g id="hover" transform="translate(30.000000, 205.000000)">
+            <g id="user-profile" transform="translate(906.000000, 16.000000)">
+                <g id="icon-arrow-down" transform="translate(120.000000, 2.000000)">
+                    <rect id="Bounding-Box" x="0" y="0" width="16" height="16"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="arrow-angle-down" fill="#A1A9B5" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

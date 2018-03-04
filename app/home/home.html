@@ -1,0 +1,16 @@
+<div class="menu">
+	<div>
+		<a class="btnToHome" href="/"></a>
+	</div>
+	<div ng-repeat="menuItem in menuItems | filter: filterFunction" ng-click="pageChanged($event, menuItem)">
+		<a href="{{menuItem.link}}" ng-class="{ active: currentPage.title == menuItem.title}">{{menuItem.title}}</a>
+	</div>
+	<a href='' title='' class='{{dropDownState}}'
+        dropdown-menu="options"
+        dropdown-model="currentSelect"
+        dropdown-item-label="title"
+        dropdown-onchange="selectedItemChanged(selected)"
+        ng-click="dropDownClicked($event)">
+        {{currentUser.name}}
+    </a>
+</div>

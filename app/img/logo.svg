@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="in-situ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-85.000000, -982.000000)">
+        <g id="styleguide" transform="translate(30.000000, 28.000000)" fill-rule="nonzero">
+            <g id="icons" transform="translate(39.000000, 913.000000)">
+                <g id="logo" transform="translate(16.000000, 41.000000)">
+                    <path d="M5,10 C2.243,10 0,7.757 0,5 C0,2.24275 2.243,0 5,0 C7.758,0 10,2.24275 10,5 C10,7.757 7.758,10 5,10 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M14.16675,6.69275 L17.5,12.40725 L17.5,2.5 L11.176,2.5 C11.49,3.27325 11.66675,4.11625 11.66675,5 C11.66675,8.67675 8.67675,11.66675 5,11.66675 C4.11625,11.66675 3.27325,11.48925 2.5,11.175 L2.5,17.5 L7.862,17.5 L14.16675,6.69275 Z" id="Shape" fill="#A1A9B5"></path>
+                    <polygon id="Shape" fill="#6C7988" points="14.16675 10 8.33325 20 20 20"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
