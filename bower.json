@@ -1,8 +1,7 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "name": "Hapara-Front-End-Task",
+  "description": "Hapara Front End Task",
+  "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {

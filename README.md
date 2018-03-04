@@ -1,3 +1,10 @@
+## Hapara frontend task installations instructions
+
+To run the application you need to run `npm install` then `npm start`.
+Open browser at localhost:8000.
+
+To run unit tests run `npm run test-single-run`.
+
 ## Hapara frontend coding challenge
 
 You'll be building a simple header with a drop down menu interaction. Spend a couple of hours on this we don't want you to be losing sleep but it would be nice to finish all the points in the code spec.
